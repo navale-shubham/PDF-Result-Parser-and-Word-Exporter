@@ -1,4 +1,4 @@
-# PBL-II Project: PDF Result Parser & Word Exporter
+# PDF Result Parser & Word Exporter
 
 A Desktop GUI application built with **PySide6** that extracts academic results/marksheets from PDF files and exports structured student grade data into Microsoft Word (`.docx`) tables.
 
